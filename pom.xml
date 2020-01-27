@@ -23,6 +23,7 @@
         <version>1.8</version>
         <configuration>
           <includePluginDependencies>true</includePluginDependencies>
+          <executable>C:\Program Files (x86)\Java\jre1.8.0_241\bin\javac.exe</executable>
           <mainClass>com.mycompany.myapp.App</mainClass>
         </configuration>
       </plugin>
